@@ -112,7 +112,7 @@ echo "hyprland" | websearch
 ### Local dev (3 commands)
 
 ```sh
-git clone https://github.com/Evoke4350/kagi-alternative.git
+git clone https://github.com/kevinwhitham/newweb.git
 cd websearch
 npm start          # binds 0.0.0.0:3040
 ```
