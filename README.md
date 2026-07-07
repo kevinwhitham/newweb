@@ -194,7 +194,7 @@ export async function search(query, ctx) {
 }
 ```
 
-Register in [`src/adapters/index.js`](src/adapters/index.js). Restart. Done. The aggregator, dedup, ranker, lens, explain, cache, and frontend already handle it.
+Register in [`src/adapters/index.js`](src/adapters/index.js). ~~Restart~~ Rebuild. Done. The aggregator, dedup, ranker, lens, explain, cache, and frontend already handle it.
 
 ## API endpoints
 
